@@ -94,11 +94,6 @@ Contributions, issues, and feature requests are welcome! Feel free to fork this 
 📧 Contact
 mail : manvichaturvedi5104@gmail.com
 
-GitHub Profile
 
-yaml
-Copy code
 
----
 
-Would you like me to **create a `requirements.txt` file content** (ready to copy) f
