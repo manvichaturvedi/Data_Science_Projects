@@ -92,7 +92,7 @@ Create detailed markdown documentation within each notebook.
 Contributions, issues, and feature requests are welcome! Feel free to fork this repository and submit a pull request.
 
 📧 Contact
-Manvi Chaturvedi
+mail : manvichaturvedi5104@gmail.com
 
 GitHub Profile
 
